@@ -1,0 +1,12 @@
+{
+  "name" : "tcx.js",
+  "private" : true,
+  "description" : "A simple wrapper for parsing TCX fitness data files from Garmin Connect",
+  "version" : "0.0.1",
+  "author" : "Robert Sargant <robert@sargant.com>",
+  "dependencies" : {
+    "dom-js" : "0.0.6"
+  },
+  "main" : "./lib/tcx.js",
+  "engine" : "node 0.6.x"
+}
